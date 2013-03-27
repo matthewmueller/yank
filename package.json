@@ -1,0 +1,15 @@
+{
+  "name": "yank",
+  "version": "0.0.1",
+  "description": "yank the dependencies out of an html file",
+  "keywords": [],
+  "author": "Matthew Mueller <mattmuelle@gmail.com>",
+  "dependencies": {
+    "cheerio": "~0.10.8"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "expect.js": "*"
+  },
+  "main": "index"
+}
